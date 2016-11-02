@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using System.Collections;
 
-public class AutoDoor : MonoBehaviour {
+public class autoDoor : MonoBehaviour {
 
 	Animator anim;
 
